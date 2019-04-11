@@ -1,0 +1,21 @@
+{
+    "project-name": "test_drone",
+    "project-language": "Python",
+    "env": "env",
+    "project-type": "application",
+    "template": "flask-api",
+    "license": "MIT",
+    "version": "0.0.1",
+    "status": "dev",
+    "url": "",
+    "author": "huangsizhe",
+    "author-email": "",
+    "keywords": ["tools"],
+    "description": "simple tools",
+    "gcc": "",
+    "global-python": "python",
+    "remote_registry": "",
+    "requirement": ["peewee", "gunicorn", "gevent", "flask_sockets", "Flask", "voluptuous"],
+    "requirement-dev": ["mypy", "lxml", "pep8", "mypy-extensions", "wheel", "coverage", "pydocstyle", "autopep8"],
+    "entry": "test_drone"
+}
