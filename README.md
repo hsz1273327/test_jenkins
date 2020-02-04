@@ -1,40 +1,5 @@
 # test_jenkins
 
-+ version: 0.0.1
-+ status: dev
-+ author: huangsizhe
-+ email: 
+本项目是文章[使用Jenkins做CICD](http://blog.hszofficial.site/experiment/2019/04/10/%E4%BD%BF%E7%94%A8Jenkins%E5%81%9ACICD/)的例子.
 
-## Description
-
-simple tools
-
-keywords:['tools']
-
-## Feature
-
-+ Feature1
-+ Feature2
-
-## Example
-
-```python
-```
-
-## Install
-
-`python -m pip install test_drone`
-
-## Documentation
-
-Documentation on github page <>
-
-## TODO
-
-+ todo1
-+ todo2
-
-## Limitations
-
-+ limit1
-+ limit2
+在按文章中配置好jenkins和github后就可以实现cicd了
